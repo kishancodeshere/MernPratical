@@ -1,0 +1,5 @@
+/Backend/.env
+/Backend/package-lock.json
+/Backend/node_modules
+/Frontend/react-login-app/node_modules
+/Frontend/react-login-app/package-lock.json
